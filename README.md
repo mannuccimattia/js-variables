@@ -10,3 +10,5 @@ Aprila con Visual Studio Code.
 Aiutandoti con VS Code, pubblica sul tuo github una repo pubblica, sempre di nome js-variables
 Ogni volta che risolvi un esercizio, fai un commit e poi un push!
 Buon Lavoro
+
+DONE
